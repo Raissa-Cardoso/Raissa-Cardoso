@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Raissa Cardoso 👋
 
-<div style="display:flex; flex-direction: row; justify-content: center;" >
+<div style="display:flex; flex-direction: row; align-items: center;" >
   <div>
     <a href="https://github.com/Raissa-Cardoso">
     <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=Raissa-Cardoso&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
