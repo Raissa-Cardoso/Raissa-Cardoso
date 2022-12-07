@@ -2,7 +2,7 @@
 
 👩‍💻 Trabalho com Javascript, HTML, CSS, React
 
-📖 Atualmente, estou estudando Python, Elixir, Ruby, Ruby on Rails.
+📖 Atualmente, estou estudando: Python, Elixir, Ruby, Ruby on Rails, Vue
 
 😊 Pronomes: Ela, Dela
 
