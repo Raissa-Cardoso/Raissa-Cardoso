@@ -1,8 +1,8 @@
 ## Olá! Eu sou a Raissa Cardoso 👋
 
-👩‍💻 Trabalho com Javascript, HTML, CSS, React
+👩‍💻 Trabalho com Javascript, HTML, CSS, React.Js
 
-📖 Atualmente, estou estudando: Python, Elixir, Ruby, Ruby on Rails, Vue
+📖 Atualmente, estou estudando: Python, Elixir, Ruby, Ruby on Rails, Vue.Js
 
 😊 Pronomes: Ela, Dela
 
