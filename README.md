@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Raissa Cardoso 👋
 
-👩‍💻 Trabalho com Javascript, HTML, CSS, React.Js
+👩‍💻 Trabalho com Javascript, HTML, CSS, React.js e Node.js
 
 😊 Pronomes: Ela, Dela
 
