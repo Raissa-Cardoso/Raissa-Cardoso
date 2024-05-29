@@ -23,7 +23,8 @@
 ##
  
 <div> 
-  <a href = "mailto:raissa_cardoso@yahoo.com.br"><img src="https://img.shields.io/badge/-Yahoo-%23333?style=for-the-badge&logo=yahoo&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/devraissacardoso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:raissa_cardoso@yahoo.com.br" target="_blank"><img src="https://img.shields.io/badge/-Yahoo-%23333?style=for-the-badge&logo=yahoo&logoColor=white" ></a>
+  <a href="https://www.linkedin.com/in/devraissacardoso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href = "https://www.raissacardoso.com.br/" target="_blank"><img src="https://img.shields.io/badge/-Protfólio-%23333?style=for-the-badge&logoColor=purple"></a>
  
 </div>
